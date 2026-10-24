@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "itzglecni.customhitboxes.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPlayerInteractionManagerMixin",
+    "EntityRenderManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
