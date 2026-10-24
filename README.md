@@ -6,8 +6,8 @@
 <br>
 
 <a href="https://modrinth.com/mod/hitbox-plus"><img src="https://img.shields.io/modrinth/dt/hitbox-plus?style=for-the-badge&logo=modrinth&logoColor=white&label=Downloads&color=1bd96a" alt="Modrinth downloads"></a>
-<a href="https://modrinth.com/mod/hitbox-plus/versions"><img src="https://img.shields.io/modrinth/v/hitbox-plus?style=for-the-badge&label=Latest&color=7c5cff" alt="Latest version"></a>
-<a href="https://modrinth.com/mod/hitbox-plus/versions"><img src="https://img.shields.io/modrinth/game-versions/hitbox-plus?style=for-the-badge&label=Minecraft&color=ec4899" alt="Minecraft versions"></a>
+<a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Loader-Fabric-7c5cff?style=for-the-badge" alt="Fabric"></a>
+<a href="https://modrinth.com/mod/hitbox-plus/versions"><img src="https://img.shields.io/badge/Minecraft-1.21.11%20%7C%2026.1%20%7C%2026.2%20%7C%2026.3-ec4899?style=for-the-badge" alt="Minecraft versions"></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/ItzzWater/Hitbox-Plus?style=for-the-badge&color=f59e0b" alt="License"></a>
 
 <h3>
