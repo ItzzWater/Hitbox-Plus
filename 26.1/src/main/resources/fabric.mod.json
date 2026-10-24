@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "hitboxesplus",
+  "version": "${version}",
+  "name": "Hitbox Plus",
+  "description": "A fabric mod for Hitboxes, highly configurable. Customize widths, apply dynamic combat coloring, and tailor the visual rendering pipeline to your exact specifications.",
+  "authors": [
+    "ItzGlecni"
+  ],
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "itzglecni.customhitboxes.CustomHitboxes"
+    ],
+    "modmenu": [
+      "itzglecni.customhitboxes.gui.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "hitboxesplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*",
+    "cloth-config": "*",
+    "modmenu": "*"
+  }
+}
