@@ -1,0 +1,56 @@
+# Gradle
+.gradle/
+build/
+out/
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse / VS Code Java output
+bin/
+.classpath
+.project
+.settings/
+.vscode/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Fabric Loom dev runs (worlds, logs, options, screenshots)
+run/
+runs/
+logs/
+crash-reports/
+remappedSrc/
+
+# Built mod files. Jars are shipped through GitHub Releases, never committed
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# Local machine settings and secrets
+local.properties
+gradle-local.properties
+.env
+.env.*
+*.keystore
+*.jks
+*.pem
+*.p12
+secrets/
+
+# Claude Code local files
+.claude/
+CLAUDE.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.log
+
+# Personal notes that should stay private
+APPLICATION-*.md
