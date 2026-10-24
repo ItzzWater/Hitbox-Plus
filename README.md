@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src=".github/assets/banner.png" alt="Hitbox+ banner" width="100%">
+<img src=".github/assets/logo.png" alt="Hitbox+ logo" width="128">
 
-<br>
-<br>
+# Hitbox+
+
+**Clean, fully customizable hitboxes for Minecraft.**
+
 
 <a href="https://modrinth.com/mod/hitbox-plus"><img src="https://img.shields.io/modrinth/dt/hitbox-plus?style=for-the-badge&logo=modrinth&logoColor=white&label=Downloads&color=1bd96a" alt="Modrinth downloads"></a>
 <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/Loader-Fabric-7c5cff?style=for-the-badge" alt="Fabric"></a>
@@ -64,11 +66,16 @@ The live download count is on the [Modrinth project page](https://modrinth.com/m
 
 <div align="center">
 
-<img src=".github/assets/toggles.png" alt="Toggles tab" width="49%">&nbsp;<img src=".github/assets/sizing.png" alt="Sizing tab" width="49%">
-
-<br>
-
-<img src=".github/assets/colors.png" alt="Colors tab" width="49%">&nbsp;<img src=".github/assets/team-color.png" alt="Team Color page" width="49%">
+<table>
+  <tr>
+    <td align="center"><img src=".github/assets/toggles.png" alt="Toggles tab" width="420"><br><sub><b>Toggles</b></sub></td>
+    <td align="center"><img src=".github/assets/sizing.png" alt="Sizing tab" width="420"><br><sub><b>Sizing</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src=".github/assets/colors.png" alt="Colors tab" width="420"><br><sub><b>Colors</b></sub></td>
+    <td align="center"><img src=".github/assets/team-color.png" alt="Team Color page" width="420"><br><sub><b>Team Color</b></sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -182,7 +189,7 @@ Hitbox-Plus/
 ├── 26.1/          Source for Minecraft 26.1.x
 ├── 26.2/          Source for Minecraft 26.2
 ├── 26.3/          Source for Minecraft 26.3
-├── .github/       Build workflow, issue templates and README images
+├── .github/       Build workflow, issue templates and screenshots
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
 └── LICENSE
@@ -206,7 +213,7 @@ Hitbox+ is released under the [MIT License](LICENSE). You are free to use, chang
 
 <div align="center">
 
-<img src=".github/assets/logo-256.png" alt="Hitbox+ logo" width="96">
+<img src=".github/assets/logo.png" alt="Hitbox+ logo" width="72">
 
 <br>
 
