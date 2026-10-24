@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask on Discord
+    url: https://discord.gg/ubMnbmt6Mx
+    about: Questions and quick help from the community
+  - name: Download on Modrinth
+    url: https://modrinth.com/mod/hitbox-plus
+    about: Get the latest version of Hitbox+

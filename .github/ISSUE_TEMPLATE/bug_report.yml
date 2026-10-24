@@ -1,0 +1,48 @@
+name: Bug report
+description: Something isn't working the way it should
+labels: [bug]
+body:
+  - type: dropdown
+    id: minecraft
+    attributes:
+      label: Minecraft version
+      options:
+        - "1.21.11"
+        - "26.1.x"
+        - "26.2"
+        - "26.3"
+    validations:
+      required: true
+  - type: input
+    id: mod_version
+    attributes:
+      label: Hitbox+ version
+      placeholder: "1.3.0"
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Tell us what you expected and what happened instead. Screenshots help a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we see it happen?
+      placeholder: |
+        1. Open the config screen
+        2. Turn on ...
+        3. Join a server and ...
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: List your other mods, or paste a screenshot of your mods folder.
+  - type: textarea
+    id: log
+    attributes:
+      label: Log
+      description: If the game crashed, paste your latest.log or crash report here.
+      render: text
