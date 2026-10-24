@@ -54,3 +54,6 @@ desktop.ini
 
 # Personal notes that should stay private
 APPLICATION-*.md
+
+# Release jars staged for upload to GitHub Releases
+releases/
